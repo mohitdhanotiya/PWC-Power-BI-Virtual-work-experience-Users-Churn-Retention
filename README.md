@@ -5,8 +5,8 @@
 - Importing Data
 - Data Preparation
 - Data Modelling
+- DAX
 - Data Visualization
-- Insights
 
 ### Problem Statement
 The purpose of this task is to:
